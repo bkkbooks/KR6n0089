@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6n0089/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 大乘法界無差別論
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T31/T31n1626.xml
+    old_id: T31n1626
+hash: sha256:4308e01a1c97fc172da874f33364e32c60ce2f303e87e9246494caac380713e6

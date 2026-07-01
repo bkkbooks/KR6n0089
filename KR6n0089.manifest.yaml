@@ -1,0 +1,54 @@
+canonical_identifier: bkk:krp/KR6n0089/v1
+canonical_location: https://kanripo.org/bkk/KR6n0089/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 大乘法界無差別論
+  identifiers:
+    alt_id:
+    - T31n1626
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T31/T31n1626.xml
+    old_id: T31n1626
+  edition:
+    short: bkk
+editions:
+- short: 宋
+  label: 宋
+  source_xml_id: wit1
+- short: 元
+  label: 元
+  source_xml_id: wit2
+- short: 明
+  label: 明
+  source_xml_id: wit3
+- short: 宮
+  label: 宮
+  source_xml_id: wit4
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6n0089_000.yaml, hash: 'sha256:4308e01a1c97fc172da874f33364e32c60ce2f303e87e9246494caac380713e6'}
+  - {seq: 1, filename: KR6n0089_001.yaml, hash: 'sha256:8b6766570044b91b32dacce13174352c10ae700ec56954670eac1d6daaa97f7a'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6n0089_001.markers.yaml, hash: 'sha256:2182f205fb7dd15b515c8a0a76a7e023ebb85c5a795438cfd5a8013dac8878f5'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6n0089_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 2810
+  label: 大乘法界無差別論
+  type: juan
+  level: 1
+hash: sha256:3c2d3ee4fd496800954d364263ae3c4290842c70d62daa2892efe2d7339c3b1c
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
