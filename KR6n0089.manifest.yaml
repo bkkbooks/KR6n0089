@@ -34,9 +34,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6n0089_000.yaml, hash: 'sha256:4308e01a1c97fc172da874f33364e32c60ce2f303e87e9246494caac380713e6'}
-  - {seq: 1, filename: KR6n0089_001.yaml, hash: 'sha256:8b6766570044b91b32dacce13174352c10ae700ec56954670eac1d6daaa97f7a'}
+  - {seq: 1, filename: KR6n0089_001.yaml, hash: 'sha256:03378d18f6cc67328671385d18d18cdf350b63a599b7ccb1fbf27f7980f6a148'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6n0089_001.markers.yaml, hash: 'sha256:2182f205fb7dd15b515c8a0a76a7e023ebb85c5a795438cfd5a8013dac8878f5'}
+  - {seq: 0, role: markers, filename: assets/KR6n0089_000.markers.yaml, hash: 'sha256:b2e67ef7af48989715a3d2b8b1391156a5d2a5d05babe51f362cd24670c64d5d'}
+  - {seq: 1, role: markers, filename: assets/KR6n0089_001.markers.yaml, hash: 'sha256:d1a51a6f89fce2bea4417316700038b817a1f6c2ff142f6e74b333471d732e09'}
 table_of_contents:
 - ref:
     seq: 1
@@ -48,7 +49,4 @@ table_of_contents:
   label: 大乘法界無差別論
   type: juan
   level: 1
-hash: sha256:3c2d3ee4fd496800954d364263ae3c4290842c70d62daa2892efe2d7339c3b1c
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:ab4b027de4801208e96e97d71541b2414f3c54beac25cbab9f7fa21e9d616247
