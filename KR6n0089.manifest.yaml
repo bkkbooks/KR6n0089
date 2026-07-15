@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6n0089/v1
 canonical_location: https://kanripo.org/bkk/KR6n0089/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 大乘法界無差別論
   identifiers:
@@ -34,10 +34,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6n0089_000.yaml, hash: 'sha256:4308e01a1c97fc172da874f33364e32c60ce2f303e87e9246494caac380713e6'}
-  - {seq: 1, filename: KR6n0089_001.yaml, hash: 'sha256:03378d18f6cc67328671385d18d18cdf350b63a599b7ccb1fbf27f7980f6a148'}
+  - {seq: 1, filename: KR6n0089_001.yaml, hash: 'sha256:8da64f9f0c9ffcda3bccb78e9bb979afd2215a1535f0f3146b584031cb661eb8'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6n0089_000.markers.yaml, hash: 'sha256:b2e67ef7af48989715a3d2b8b1391156a5d2a5d05babe51f362cd24670c64d5d'}
-  - {seq: 1, role: markers, filename: assets/KR6n0089_001.markers.yaml, hash: 'sha256:d1a51a6f89fce2bea4417316700038b817a1f6c2ff142f6e74b333471d732e09'}
+  - {seq: 1, role: markers, filename: assets/KR6n0089_001.markers.yaml, hash: 'sha256:9ae7fc8faf376e067205444521eb6fbc1c3e91ae69386765781d49f518a2164a'}
 table_of_contents:
 - ref:
     seq: 1
@@ -49,4 +49,7 @@ table_of_contents:
   label: 大乘法界無差別論
   type: juan
   level: 1
-hash: sha256:ab4b027de4801208e96e97d71541b2414f3c54beac25cbab9f7fa21e9d616247
+hash: sha256:91f4da4192ebb718243f61191e0c63b66c72fabc4711640215f86c9eaae74e25
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
